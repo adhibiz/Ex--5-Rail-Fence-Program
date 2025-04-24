@@ -71,8 +71,7 @@ int main() {
 ~~~
 
 # OUTPUT
-![Uploading image.png…]()
-
+![image](https://github.com/user-attachments/assets/b142ab26-775f-4a34-b6a7-983d76419f71)
 
 # RESULT
 Thus, the Rail Fence cipher transposition technique was successfully implemented using C, and the ciphertext was generated from the given plaintext and key.
